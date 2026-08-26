@@ -35,7 +35,7 @@ An end-to-end data analytics project exploring the Azerbaijani automobile market
 ![Market Overview](images/MarketOverview.png)
 
 ### Page 2: SQL Market Insights (`SQL Və Dərin Analitika`)
-![SQL Market Insights](SQLMarketInsights.png)
+![SQL Market Insights](images/SQLMarketInsights.png)
 
 ---
 
