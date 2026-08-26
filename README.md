@@ -32,7 +32,7 @@ An end-to-end data analytics project exploring the Azerbaijani automobile market
 ## 🖼️ Dashboard Preview
 
 ### Page 1: Market Overview (`Bazar İcmalı`)
-![Market Overview](images/page1.png)
+![Market Overview](images/Market Overview.png)
 
 ### Page 2: SQL Market Insights (`SQL Və Dərin Analitika`)
 ![SQL Market Insights](images/page2.png)
