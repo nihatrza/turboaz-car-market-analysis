@@ -41,7 +41,6 @@ An end-to-end data analytics project exploring the Azerbaijani automobile market
 
 ## 📁 Repository Structure
 
-```text
 turboaz-car-market-analysis/
 ├── data/
 │   └── turboaz_cars_data.csv                  # Raw & cleaned datasets
@@ -60,3 +59,12 @@ turboaz-car-market-analysis/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
+## 👤 Author
+
+**Nihat Rzaquluzade | Junior Data Analyst**
+
+This project was developed as a professional **Data Analytics portfolio project**, demonstrating skills in Python, PostgreSQL, ETL processes, data cleaning, SQL analysis, and Power BI data visualization.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
+
